@@ -1,0 +1,1 @@
+{"name":"task","base":"PersistedModel","idInjection":true,"options":{"validateUpsert":true},"properties":{"tasks":{"type":"string","required":true},"dateTime":{"type":"date","required":true,"default":"$now"},"taskId":{"type":"number","required":true}},"validations":[],"relations":{},"acls":[],"methods":{}}

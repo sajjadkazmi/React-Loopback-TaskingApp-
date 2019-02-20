@@ -1,0 +1,1 @@
+{"db":{"host":"192.168.61.33","port":1433,"database":"MERNStock","username":"sa","password":"Sybr1d123","name":"db","connector":"mssql"}}
